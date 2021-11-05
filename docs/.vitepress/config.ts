@@ -113,9 +113,17 @@ function getGuideSidebar() {
   return [
     /** 一个对象是一个侧边栏标题
      * text：标题   children：二级菜单栏   link：地址 */
-    {
-      text: '移动Web & Webpack',
-      link: '/documents/mobileWeb&&Webpack/mobileWeb',
+     {
+      text: '移动Web',
+      children: [
+        { text: 'Get Started', link: '/documents/mobileWeb&&Webpack/mobileWeb' },
+      ]
     },
+    {
+      text: 'Webpack',
+      children: [
+        { text: 'Get Started', link: '/documents/mobileWeb&&Webpack/webpack' },
+      ]
+    }
   ]
 }
