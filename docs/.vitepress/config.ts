@@ -83,6 +83,11 @@ export default {
             link: '/documents/mobileWeb&&Webpack/mobileWeb',
             activeMatch: '^/config/',
           },
+          {
+            text: 'Vue',
+            link: 'https://wangsirxy.github.io/VueCourse',
+            activeMatch: '^/config/',
+          },
         ]
       },
       {
