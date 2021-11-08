@@ -1074,7 +1074,7 @@ div {
 
 ## flexble.js 移动端兼容
 
-GitHub下载地址：https://github.com/amfe/lib-flexible/tree/master
+GitHub下载地址：[https://github.com/amfe/lib-flexible/tree/master](https://github.com/amfe/lib-flexible/tree/master)
 
 > 阿里团队开源的一个 js 库，使用 flexible.js 轻松搞定各种不同的移动端设备兼容自适应问题。
 
@@ -1082,7 +1082,7 @@ GitHub下载地址：https://github.com/amfe/lib-flexible/tree/master
 
 ### 使用
 
-<a href="././assets/file/lib-flexible-2.0.zip">lib-flexible-2.0.zip</a>
+<a href="http://wangsir.info/downFile/lib-flexible-2.0.zip" download="http://wangsir.info/downFile/lib-flexible-2.0.zip">lib-flexible-2.0.zip</a>
 
 > 在 head 中引入 flexble.js 文件，不同设备 设置 html 根字体大小。
 
