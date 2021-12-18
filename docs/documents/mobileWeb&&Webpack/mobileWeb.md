@@ -1082,7 +1082,7 @@ GitHub下载地址：[https://github.com/amfe/lib-flexible/tree/master](https://
 
 ### 使用
 
-<a href="http://wangsir.info/downFile/lib-flexible-2.0.zip" download="http://wangsir.info/downFile/lib-flexible-2.0.zip">lib-flexible-2.0.zip</a>
+[lib-flexible-2.0.zip](./assets/file/lib-flexible-2.0.zip)
 
 > 在 head 中引入 flexble.js 文件，不同设备 设置 html 根字体大小。
 
